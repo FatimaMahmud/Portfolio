@@ -14,9 +14,10 @@ DOCUMENTATION:
 
 What used:
 Since I wasn’t pro in HTML5 so I have used simple HTML to design a portfolio. I have used very common styles in it to change the font and color of the tabs i.e. (Home, Gallery, About, Contact). 
+used heading h1,h2,h3,h4 , paragraphs, divide, tables, row spanning, cell padding , links, ordered lists etc
 
 What I learned in this task
 
-1-	How to link pages i.e. <a href> 
-2-	How to refer to a style sheet using <link> tag
-3-	Got a better understanding of the <div> tag i.e. how do we define classes and what advantage do we get using them
+1-	How to link pages i.e. by using <*a href*> 
+2-	How to refer to a style sheet using <*link*> tag
+3-	Got a better understanding of the <*div*> tag i.e. how do we define classes and what advantage do we get using them
